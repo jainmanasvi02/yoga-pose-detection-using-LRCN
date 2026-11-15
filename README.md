@@ -25,3 +25,11 @@ Real-Time Accuracy Percentage
 
 
 #This code only has the lrcn model which demonstrated the neural netwrok layers used to make the project.
+
+## License
+
+This project is licensed under the MIT License.
+
+#Author 
+Manasvi Jain
+
